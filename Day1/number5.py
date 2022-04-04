@@ -1,0 +1,7 @@
+print(type(6))
+print(type(6.6))
+print(type(6-4))
+print(type(6-12))
+print(type(6/12))
+print(type(6*12))
+print(type(6.12+4.88))
